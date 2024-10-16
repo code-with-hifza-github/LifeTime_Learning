@@ -1,0 +1,96 @@
+section {
+    margin-bottom: 40px;
+}
+ body{
+        background-image: url("sign in bg.jpg");
+      background-size: cover;
+    }
+
+.introduction {
+    /*background-color: aqua;*/
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+}
+introduction h{
+    font-size: large;
+    font-style: italic;
+}
+
+.mission {
+    /*background-color: beige;*/
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+
+}
+
+.team {
+    /*background-color: blueviolet;*/
+    text-align: center;
+
+}
+
+.team-member {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    margin-left: 90px;
+}
+
+
+.team-member img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.team-member h3 {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.team-member p {
+    font-size: 16px;
+    text-align: center;
+}
+
+.story {
+    text-align: center;
+    background-color: brown;
+    width: 700px;
+    margin-left:  250px;
+    margin-right: 250px;
+    padding: 30px;
+    text-align: center;
+    border: 3px black;
+    border-radius: 15px;
+}
+
+.testimonials {
+    text-align: center;
+}
+
+blockquote {
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+blockquote p {
+    margin-bottom: 10px;
+}
+
+blockquote cite {
+    font-style: normal;
+}
+
+.contact {
+    text-align: center;
+    background-color: gray;
+    height: 200px;
+    padding-top: 25px;
+}
+
+p a {
+    color: black;
+}
